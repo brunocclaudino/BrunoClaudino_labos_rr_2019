@@ -1,0 +1,276 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+50 : Processo 2034305 alocacao de blocos no pagefile
+50 : Processo 2034305 criado
+50 : Processo 2034409 alocacao de blocos no pagefile
+50 : Processo 2034409 criado
+51 : Processo 2034305 Pronto -> Exec
+52 : Processo 2034305 Exec -> Page Fault0
+53 : Processo 2034409 Pronto -> Exec
+54 : Processo 2034409 Exec -> Page Fault0
+62 : Processo 2034305 HwPF - Executável0
+63 : Processo 2034305 Pronto -> Exec
+64 : Processo 2034305 Exec -> Pronto por tempo
+65 : Processo 2034305 Pronto -> Exec
+66 : Processo 2034305 Exec -> Pronto por tempo
+66 : Processo 2050419 alocacao de blocos no pagefile
+66 : Processo 2050419 criado
+66 : Processo 2050525 alocacao de blocos no pagefile
+66 : Processo 2050525 criado
+66 : Processo 2050628 alocacao de blocos no pagefile
+66 : Processo 2050628 criado
+67 : Processo 2034305 Pronto -> Exec
+68 : Processo 2034305 Exec -> Pronto por tempo
+69 : Processo 2050419 Pronto -> Exec
+70 : Processo 2050419 Exec -> Page Fault0
+71 : Processo 2050525 Pronto -> Exec
+72 : Processo 2050525 Exec -> Page Fault0
+72 : Processo 2034409 HwPF - Executável0
+73 : Processo 2050628 Pronto -> Exec
+74 : Processo 2050628 Exec -> Page Fault0
+75 : Processo 2034305 Pronto -> Exec
+76 : Processo 2034305 Exec -> Pronto por tempo
+77 : Processo 2034409 Pronto -> Exec
+78 : Processo 2034409 Exec -> Pronto por tempo
+79 : Processo 2034305 Pronto -> Exec
+80 : Processo 2034305 Exec -> Pronto por tempo
+81 : Processo 2034409 Pronto -> Exec
+82 : Processo 2034409 Exec -> Pronto por tempo
+82 : Processo 2050419 HwPF - Executável0
+83 : Processo 2034305 Pronto -> Exec
+84 : Processo 2034305 Exec -> Pronto por tempo
+85 : Processo 2034409 Pronto -> Exec
+86 : Processo 2034409 Exec -> Pronto por tempo
+87 : Processo 2050419 Pronto -> Exec
+87 : Processo 2050419 Exec -> I/O
+88 : Processo 2034305 Pronto -> Exec
+89 : Processo 2034305 Exec -> Pronto por tempo
+90 : Processo 2034409 Pronto -> Exec
+91 : Processo 2034409 Exec -> Pronto por tempo
+92 : Processo 2034305 Pronto -> Exec
+93 : Processo 2034305 Exec -> Pronto por tempo
+93 : Processo 2050525 HwPF - Executável0
+94 : Processo 2034409 Pronto -> Exec
+95 : Processo 2034409 Exec -> Pronto por tempo
+96 : Processo 2034305 Pronto -> Exec
+97 : Processo 2034305 Exec -> Page Fault1
+98 : Processo 2050525 Pronto -> Exec
+98 : Processo 2050525 Exec -> I/O
+99 : Processo 2034409 Pronto -> Exec
+100 : Processo 2034409 Exec -> Pronto por tempo
+101 : Processo 2034409 Pronto -> Exec
+102 : Processo 2034409 Exec -> Pronto por tempo
+103 : Processo 2034409 Pronto -> Exec
+103 : Processo 2050628 HwPF - Executável0
+104 : Processo 2034409 Exec -> Pronto por tempo
+105 : Processo 2050628 Pronto -> Exec
+105 : Processo 2050628 Exec -> I/O
+106 : Processo 2034409 Pronto -> Exec
+107 : Processo 2034409 Exec -> Page Fault1
+114 : Processo 2050419 Pronto -> Exec
+114 : Processo 2050419 Executando -> Suspenso
+124 : Processo 2034305 HwPF - Executável1
+125 : Processo 2034305 Pronto -> Exec
+126 : Processo 2034305 Exec -> Pronto por tempo
+127 : Processo 2034305 Pronto -> Exec
+128 : Processo 2034305 Exec -> Pronto por tempo
+129 : Processo 2034305 Pronto -> Exec
+130 : Processo 2034305 Exec -> Pronto por tempo
+131 : Processo 2034305 Pronto -> Exec
+132 : Processo 2034305 Exec -> Pronto por tempo
+133 : Processo 2034305 Pronto -> Exec
+134 : Processo 2034305 Exec -> Pronto por tempo
+135 : Processo 2034305 Pronto -> Exec
+136 : Processo 2034305 Exec -> Pronto por tempo
+137 : Processo 2050525 Pronto -> Exec
+138 : Processo 2050525 Exec -> Pronto por tempo
+139 : Processo 2034305 Pronto -> Exec
+140 : Processo 2034305 Exec -> Pronto por tempo
+141 : Processo 2050525 Pronto -> Exec
+141 : Processo 2050525 Exec -> I/O
+142 : Processo 2034305 Pronto -> Exec
+143 : Processo 2034305 Exec -> Pronto por tempo
+144 : Processo 2034305 Pronto -> Exec
+145 : Processo 2034305 Exec -> Page Fault2
+146 : Processo 2050628 Pronto -> Exec
+147 : Processo 2050628 Exec -> Pronto por tempo
+148 : Processo 2050628 Pronto -> Exec
+148 : Processo 2050628 Exec -> I/O
+154 : Processo 2034409 HwPF - Executável1
+155 : Processo 2034409 Pronto -> Exec
+156 : Processo 2034409 Exec -> Pronto por tempo
+157 : Processo 2034409 Pronto -> Exec
+158 : Processo 2034409 Exec -> Pronto por tempo
+159 : Processo 2034409 Pronto -> Exec
+160 : Processo 2034409 Exec -> Pronto por tempo
+161 : Processo 2034409 Pronto -> Exec
+162 : Processo 2034409 Exec -> Pronto por tempo
+163 : Processo 2034409 Pronto -> Exec
+164 : Processo 2034409 Exec -> Pronto por tempo
+165 : Processo 2034409 Pronto -> Exec
+166 : Processo 2034409 Exec -> Pronto por tempo
+167 : Processo 2050525 Pronto -> Exec
+167 : Processo 2050525 Exec -> I/O
+168 : Processo 2034409 Pronto -> Exec
+169 : Processo 2034409 Exec -> Pronto por tempo
+170 : Processo 2034409 Pronto -> Exec
+171 : Processo 2034409 Exec -> Pronto por tempo
+172 : Processo 2034409 Pronto -> Exec
+173 : Processo 2034409 Exec -> Page Fault2
+175 : Processo 2034305 HwPF - Executável2
+176 : Processo 2034305 Pronto -> Exec
+177 : Processo 2034305 Exec -> Pronto por tempo
+178 : Processo 2034305 Pronto -> Exec
+179 : Processo 2034305 Exec -> Pronto por tempo
+179 : Processo 2243183 alocacao de blocos no pagefile
+179 : Processo 2243183 criado
+179 : Processo 2243291 alocacao de blocos no pagefile
+179 : Processo 2243291 criado
+180 : Processo 2034305 Pronto -> Exec
+181 : Processo 2034305 Exec -> Pronto por tempo
+182 : Processo 2243183 Pronto -> Exec
+183 : Processo 2243183 Exec -> Page Fault0
+184 : Processo 2243291 Pronto -> Exec
+185 : Processo 2243291 Exec -> Page Fault0
+186 : Processo 2034305 Pronto -> Exec
+187 : Processo 2034305 Exec -> Pronto por tempo
+188 : Processo 2050628 Pronto -> Exec
+188 : Processo 2050628 Exec -> I/O
+189 : Processo 2034305 Pronto -> Exec
+190 : Processo 2034305 Exec -> Pronto por tempo
+191 : Processo 2034305 Pronto -> Exec
+192 : Processo 2034305 Exec -> Pronto por tempo
+193 : Processo 2034305 Pronto -> Exec
+194 : Processo 2034305 Exec -> Pronto por tempo
+195 : Processo 2034305 Pronto -> Exec
+196 : Processo 2034305 Exec -> Pronto por tempo
+197 : Processo 2034305 Pronto -> Exec
+198 : Processo 2034305 Exec -> Page Fault3
+199 : Processo 2050525 Pronto -> Exec
+199 : Processo 2050525 Exec -> I/O
+206 : Processo 2034409 HwPF - Executável2
+207 : Processo 2034409 Pronto -> Exec
+208 : Processo 2034409 Exec -> Pronto por tempo
+209 : Processo 2034409 Pronto -> Exec
+210 : Processo 2034409 Exec -> Pronto por tempo
+211 : Processo 2034409 Pronto -> Exec
+212 : Processo 2034409 Exec -> Pronto por tempo
+213 : Processo 2034409 Pronto -> Exec
+214 : Processo 2034409 Exec -> Pronto por tempo
+215 : Processo 2034409 Pronto -> Exec
+216 : Processo 2034409 Exec -> Pronto por tempo
+216 : Processo 2243183 HwPF - Executável0
+217 : Processo 2034409 Pronto -> Exec
+218 : Processo 2034409 Exec -> Pronto por tempo
+219 : Processo 2243183 Pronto -> Exec
+220 : Processo 2243183 Exec -> Pronto por tempo
+221 : Processo 2034409 Pronto -> Exec
+222 : Processo 2034409 Exec -> Pronto por tempo
+223 : Processo 2243183 Pronto -> Exec
+224 : Processo 2243183 Exec -> Pronto por tempo
+225 : Processo 2034409 Pronto -> Exec
+226 : Processo 2034409 Exec -> Pronto por tempo
+226 : Processo 2243291 HwPF - Executável0
+227 : Processo 2243183 Pronto -> Exec
+228 : Processo 2243183 Exec -> Pronto por tempo
+229 : Processo 2034409 Pronto -> Exec
+230 : Processo 2034409 Exec -> Page Fault3
+231 : Processo 2243291 Pronto -> Exec
+232 : Processo 2243291 Exec -> Pronto por tempo
+233 : Processo 2243183 Pronto -> Exec
+234 : Processo 2243183 Exec -> Pronto por tempo
+235 : Processo 2243291 Pronto -> Exec
+236 : Processo 2243291 Exec -> Pronto por tempo
+237 : Processo 2243183 Pronto -> Exec
+238 : Processo 2243183 Exec -> Pronto por tempo
+239 : Processo 2243291 Pronto -> Exec
+240 : Processo 2243291 Exec -> Pronto por tempo
+241 : Processo 2050628 Pronto -> Exec
+241 : Processo 2050628 Exec -> I/O
+242 : Processo 2243183 Pronto -> Exec
+243 : Processo 2243183 Exec -> Pronto por tempo
+244 : Processo 2243291 Pronto -> Exec
+245 : Processo 2243291 Exec -> Pronto por tempo
+246 : Processo 2243183 Pronto -> Exec
+247 : Processo 2243183 Exec -> Pronto por tempo
+247 : Processo 2034305 HwPF - Executável3
+248 : Processo 2243291 Pronto -> Exec
+249 : Processo 2243291 Exec -> Pronto por tempo
+250 : Processo 2243183 Pronto -> Exec
+251 : Processo 2243183 Exec -> Pronto por tempo
+252 : Processo 2034305 Pronto -> Exec
+253 : Processo 2034305 Exec -> Pronto por tempo
+254 : Processo 2243291 Pronto -> Exec
+255 : Processo 2243291 Exec -> Pronto por tempo
+256 : Processo 2243183 Pronto -> Exec
+257 : Processo 2243183 Exec -> Page Fault1
+258 : Processo 2034305 Pronto -> Exec
+259 : Processo 2034305 Exec -> Pronto por tempo
+260 : Processo 2243291 Pronto -> Exec
+261 : Processo 2243291 Exec -> Pronto por tempo
+262 : Processo 2050525 Pronto -> Exec
+262 : Processo 2050525 Exec -> I/O
+263 : Processo 2034305 Pronto -> Exec
+264 : Processo 2034305 Exec -> Pronto por tempo
+265 : Processo 2243291 Pronto -> Exec
+266 : Processo 2243291 Exec -> Pronto por tempo
+267 : Processo 2034305 Pronto -> Exec
+267 : Processo 2034409 HwPF - Executável3
+268 : Processo 2034305 Exec -> Pronto por tempo
+269 : Processo 2243291 Pronto -> Exec
+270 : Processo 2243291 Exec -> Page Fault1
+271 : Processo 2034409 Pronto -> Exec
+272 : Processo 2034409 Exec -> Pronto por tempo
+273 : Processo 2034305 Pronto -> Exec
+274 : Processo 2034305 Exec -> Pronto por tempo
+275 : Processo 2034409 Pronto -> Exec
+276 : Processo 2034409 Exec -> Pronto por tempo
+277 : Processo 2034305 Pronto -> Exec
+278 : Processo 2034305 Exec -> Pronto por tempo
+279 : Processo 2034409 Pronto -> Exec
+280 : Processo 2034409 Exec -> Pronto por tempo
+281 : Processo 2034305 Pronto -> Exec
+282 : Processo 2034305 Exec -> Pronto por tempo
+283 : Processo 2050628 Pronto -> Exec
+283 : Processo 2050628 Exec -> I/O
+284 : Processo 2034409 Pronto -> Exec
+285 : Processo 2034409 Exec -> Pronto por tempo
+286 : Processo 2034305 Pronto -> Exec
+287 : Processo 2034305 Exec -> Pronto por tempo
+288 : Processo 2034409 Pronto -> Exec
+288 : Processo 2243183 HwPF - Executável1
+289 : Processo 2034409 Exec -> Pronto por tempo
+290 : Processo 2034305 Pronto -> Exec
+291 : Processo 2034305 Exec -> Page Fault4
+292 : Processo 2243183 Pronto -> Exec
+293 : Processo 2243183 Exec -> Pronto por tempo
+294 : Processo 2034409 Pronto -> Exec
+295 : Processo 2034409 Exec -> Pronto por tempo
+296 : Processo 2243183 Pronto -> Exec
+297 : Processo 2243183 Exec -> Pronto por tempo
+298 : Processo 2034409 Pronto -> Exec
+299 : Processo 2034409 Exec -> Pronto por tempo
+300 : Processo 2243183 Pronto -> Exec
+301 : Processo 2243183 Exec -> Pronto por tempo
+302 : Processo 2050525 Pronto -> Exec
+302 : Processo 2050525 Exec -> I/O
+303 : Processo 2034409 Pronto -> Exec
+304 : Processo 2034409 Exec -> Pronto por tempo
+305 : Processo 2243183 Pronto -> Exec
+306 : Processo 2243183 Exec -> Pronto por tempo
+307 : Processo 2034409 Pronto -> Exec
+308 : Processo 2034409 Exec -> Page Fault4
+308 : Processo 2243291 HwPF - Executável1
+309 : Processo 2243183 Pronto -> Exec
+310 : Processo 2243183 Exec -> Pronto por tempo
+311 : Processo 2243291 Pronto -> Exec
+312 : Processo 2243291 Exec -> Pronto por tempo
+313 : Processo 2243183 Pronto -> Exec
+314 : Processo 2243183 Exec -> Pronto por tempo
+315 : Processo 2243291 Pronto -> Exec
+316 : Processo 2243291 Exec -> Pronto por tempo
+317 : Processo 2243183 Pronto -> Exec
+318 : Processo 2243183 Exec -> Pronto por tempo
+319 : Processo 2243291 Pronto -> Exec
+320 : Processo 2243291 Exec -> Pronto por tempo
+321 : Processo 2243183 Pronto -> Exec
