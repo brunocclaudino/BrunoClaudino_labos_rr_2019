@@ -1,0 +1,113 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+44 : Processo 1431595 alocacao de blocos no pagefile
+44 : Processo 1431595 criado
+44 : Processo 1431699 alocacao de blocos no pagefile
+44 : Processo 1431699 criado
+45 : Processo 1431595 Pronto -> Exec
+46 : Processo 1431595 Exec -> Page Fault0
+47 : Processo 1431699 Pronto -> Exec
+48 : Processo 1431699 Exec -> Page Fault0
+56 : Processo 1431595 HwPF - Executável0
+57 : Processo 1431595 Pronto -> Exec
+58 : Processo 1431595 Exec -> Pronto por tempo
+59 : Processo 1431595 Pronto -> Exec
+60 : Processo 1431595 Exec -> Pronto por tempo
+61 : Processo 1431595 Pronto -> Exec
+62 : Processo 1431595 Exec -> Pronto por tempo
+63 : Processo 1431595 Pronto -> Exec
+64 : Processo 1431595 Exec -> Pronto por tempo
+65 : Processo 1431595 Pronto -> Exec
+66 : Processo 1431595 Exec -> Pronto por tempo
+66 : Processo 1431699 HwPF - Executável0
+67 : Processo 1431595 Pronto -> Exec
+68 : Processo 1431595 Exec -> Pronto por tempo
+69 : Processo 1431699 Pronto -> Exec
+70 : Processo 1431699 Exec -> Pronto por tempo
+71 : Processo 1431595 Pronto -> Exec
+72 : Processo 1431595 Exec -> Pronto por tempo
+73 : Processo 1431699 Pronto -> Exec
+74 : Processo 1431699 Exec -> Pronto por tempo
+75 : Processo 1431595 Pronto -> Exec
+76 : Processo 1431595 Exec -> Pronto por tempo
+77 : Processo 1431699 Pronto -> Exec
+78 : Processo 1431699 Exec -> Pronto por tempo
+79 : Processo 1431595 Pronto -> Exec
+80 : Processo 1431595 Exec -> Page Fault1
+81 : Processo 1431699 Pronto -> Exec
+82 : Processo 1431699 Exec -> Pronto por tempo
+83 : Processo 1431699 Pronto -> Exec
+84 : Processo 1431699 Exec -> Pronto por tempo
+85 : Processo 1431699 Pronto -> Exec
+86 : Processo 1431699 Exec -> Pronto por tempo
+87 : Processo 1431699 Pronto -> Exec
+88 : Processo 1431699 Exec -> Pronto por tempo
+89 : Processo 1431699 Pronto -> Exec
+90 : Processo 1431699 Exec -> Pronto por tempo
+90 : Processo 1431595 HwPF - Executável1
+91 : Processo 1431699 Pronto -> Exec
+92 : Processo 1431699 Exec -> Page Fault1
+93 : Processo 1431595 Pronto -> Exec
+94 : Processo 1431595 Exec -> Pronto por tempo
+95 : Processo 1431595 Pronto -> Exec
+96 : Processo 1431595 Exec -> Pronto por tempo
+97 : Processo 1431595 Pronto -> Exec
+98 : Processo 1431595 Exec -> Pronto por tempo
+99 : Processo 1431595 Pronto -> Exec
+100 : Processo 1431595 Exec -> Pronto por tempo
+101 : Processo 1431595 Pronto -> Exec
+102 : Processo 1431595 Exec -> Pronto por tempo
+102 : Processo 1431699 HwPF - Executável1
+103 : Processo 1431595 Pronto -> Exec
+104 : Processo 1431595 Exec -> Pronto por tempo
+105 : Processo 1431699 Pronto -> Exec
+106 : Processo 1431699 Exec -> Pronto por tempo
+107 : Processo 1431595 Pronto -> Exec
+108 : Processo 1431595 Exec -> Pronto por tempo
+109 : Processo 1431699 Pronto -> Exec
+110 : Processo 1431699 Exec -> Pronto por tempo
+111 : Processo 1431595 Pronto -> Exec
+112 : Processo 1431595 Exec -> Pronto por tempo
+113 : Processo 1431699 Pronto -> Exec
+114 : Processo 1431699 Exec -> Pronto por tempo
+115 : Processo 1431595 Pronto -> Exec
+116 : Processo 1431595 Exec -> Page Fault2
+117 : Processo 1431699 Pronto -> Exec
+118 : Processo 1431699 Exec -> Pronto por tempo
+119 : Processo 1431699 Pronto -> Exec
+120 : Processo 1431699 Exec -> Pronto por tempo
+121 : Processo 1431699 Pronto -> Exec
+122 : Processo 1431699 Exec -> Pronto por tempo
+123 : Processo 1431699 Pronto -> Exec
+124 : Processo 1431699 Exec -> Pronto por tempo
+125 : Processo 1431699 Pronto -> Exec
+126 : Processo 1431699 Exec -> Pronto por tempo
+126 : Processo 1431595 HwPF - Executável2
+127 : Processo 1431699 Pronto -> Exec
+128 : Processo 1431699 Exec -> Page Fault2
+129 : Processo 1431595 Pronto -> Exec
+130 : Processo 1431595 Exec -> Pronto por tempo
+131 : Processo 1431595 Pronto -> Exec
+132 : Processo 1431595 Exec -> Pronto por tempo
+133 : Processo 1431595 Pronto -> Exec
+134 : Processo 1431595 Exec -> Pronto por tempo
+135 : Processo 1431595 Pronto -> Exec
+136 : Processo 1431595 Exec -> Pronto por tempo
+137 : Processo 1431595 Pronto -> Exec
+138 : Processo 1431595 Exec -> Pronto por tempo
+138 : Processo 1431699 HwPF - Executável2
+139 : Processo 1431595 Pronto -> Exec
+140 : Processo 1431595 Exec -> Pronto por tempo
+141 : Processo 1431699 Pronto -> Exec
+142 : Processo 1431699 Exec -> Pronto por tempo
+143 : Processo 1431595 Pronto -> Exec
+144 : Processo 1431595 Exec -> Pronto por tempo
+145 : Processo 1431699 Pronto -> Exec
+146 : Processo 1431699 Exec -> Pronto por tempo
+147 : Processo 1431595 Pronto -> Exec
+148 : Processo 1431595 Exec -> Pronto por tempo
+149 : Processo 1431699 Pronto -> Exec
+150 : Processo 1431699 Exec -> Pronto por tempo
+151 : Processo 1431595 Pronto -> Exec
+152 : Processo 1431595 Exec -> Page Fault3
+153 : Processo 1431699 Pronto -> Exec
