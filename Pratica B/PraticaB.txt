@@ -1,0 +1,98 @@
+0 : Inicializando SOsim ...
+1 : SOsim pronto
+98 : Processo 402166 alocacao de blocos no pagefile
+98 : Processo 402166 HwPF - Executável0
+98 : Processo 402166 HwPF - Executável1
+98 : Processo 402166 HwPF - Executável2
+98 : Processo 402166 HwPF - Executável3
+98 : Processo 402166 HwPF - Executável4
+98 : Processo 402166 criado
+99 : Processo 402166 Pronto -> Exec
+100 : Processo 402166 Exec -> Pronto por tempo
+101 : Processo 402166 Pronto -> Exec
+102 : Processo 402166 Exec -> Pronto por tempo
+103 : Processo 402166 Pronto -> Exec
+104 : Processo 402166 Exec -> Pronto por tempo
+105 : Processo 402166 Pronto -> Exec
+106 : Processo 402166 Exec -> Pronto por tempo
+106 : Processo 410115 alocacao de blocos no pagefile
+106 : Processo 410115 HwPF - Executável0
+106 : Processo 410115 HwPF - Executável1
+106 : Processo 410115 HwPF - Executável2
+106 : Processo 410115 HwPF - Executável3
+106 : Processo 410115 HwPF - Executável4
+106 : Processo 410115 criado
+107 : Processo 402166 Pronto -> Exec
+108 : Processo 402166 Exec -> Pronto por tempo
+109 : Processo 402166 Pronto -> Exec
+110 : Processo 402166 Exec -> Pronto por tempo
+111 : Processo 402166 Pronto -> Exec
+112 : Processo 402166 Exec -> Pronto por tempo
+113 : Processo 402166 Pronto -> Exec
+114 : Processo 402166 Exec -> Pronto por tempo
+115 : Processo 402166 Pronto -> Exec
+116 : Processo 402166 Exec -> Pronto por tempo
+117 : Processo 402166 Pronto -> Exec
+118 : Processo 402166 Exec -> Pronto por tempo
+119 : Processo 402166 Pronto -> Exec
+120 : Processo 402166 Exec -> Pronto por tempo
+121 : Processo 402166 Pronto -> Exec
+122 : Processo 402166 Exec -> Pronto por tempo
+123 : Processo 402166 Pronto -> Exec
+124 : Processo 402166 Exec -> Pronto por tempo
+125 : Processo 402166 Pronto -> Exec
+126 : Processo 402166 Exec -> Pronto por tempo
+127 : Processo 402166 Pronto -> Exec
+128 : Processo 402166 Exec -> Pronto por tempo
+129 : Processo 402166 Pronto -> Exec
+130 : Processo 402166 Exec -> Pronto por tempo
+131 : Processo 402166 Pronto -> Exec
+132 : Processo 402166 Exec -> Pronto por tempo
+133 : Processo 402166 Pronto -> Exec
+134 : Processo 402166 Exec -> Pronto por tempo
+135 : Processo 402166 Pronto -> Exec
+136 : Processo 402166 Exec -> Pronto por tempo
+137 : Processo 402166 Pronto -> Exec
+138 : Processo 402166 Exec -> Pronto por tempo
+139 : Processo 402166 Pronto -> Exec
+140 : Processo 402166 Exec -> Pronto por tempo
+141 : Processo 402166 Pronto -> Exec
+142 : Processo 402166 Exec -> Pronto por tempo
+143 : Processo 402166 Pronto -> Exec
+144 : Processo 402166 Exec -> Pronto por tempo
+145 : Processo 402166 Pronto -> Exec
+146 : Processo 402166 Exec -> Pronto por tempo
+147 : Processo 402166 Pronto -> Exec
+148 : Processo 402166 Exec -> Pronto por tempo
+149 : Processo 402166 Pronto -> Exec
+150 : Processo 402166 Exec -> Pronto por tempo
+151 : Processo 402166 Pronto -> Exec
+152 : Processo 402166 Exec -> Pronto por tempo
+153 : Processo 402166 Pronto -> Exec
+154 : Processo 402166 Exec -> Pronto por tempo
+155 : Processo 402166 Pronto -> Exec
+156 : Processo 402166 Exec -> Pronto por tempo
+157 : Processo 402166 Pronto -> Exec
+158 : Processo 402166 Exec -> Pronto por tempo
+159 : Processo 402166 Pronto -> Exec
+160 : Processo 402166 Exec -> Pronto por tempo
+161 : Processo 402166 Pronto -> Exec
+162 : Processo 402166 Exec -> Pronto por tempo
+163 : Processo 402166 Pronto -> Exec
+164 : Processo 402166 Exec -> Pronto por tempo
+165 : Processo 402166 Pronto -> Exec
+166 : Processo 402166 Exec -> Pronto por tempo
+167 : Processo 402166 Pronto -> Exec
+168 : Processo 402166 Exec -> Pronto por tempo
+169 : Processo 402166 Pronto -> Exec
+170 : Processo 402166 Exec -> Pronto por tempo
+171 : Processo 402166 Pronto -> Exec
+172 : Processo 402166 Exec -> Pronto por tempo
+173 : Processo 402166 Pronto -> Exec
+174 : Processo 402166 Exec -> Pronto por tempo
+175 : Processo 402166 Pronto -> Exec
+176 : Processo 402166 Exec -> Pronto por tempo
+177 : Processo 402166 Pronto -> Exec
+178 : Processo 402166 Exec -> Pronto por tempo
+179 : Processo 402166 Pronto -> Exec
+180 : Processo 402166 Exec -> Pronto por tempo
