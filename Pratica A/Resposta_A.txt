@@ -1,0 +1,1 @@
+O que ocorre é que quando o processo sai de execução ele ja sai no modo pronto,o escalonador analisa a prioridade dos processos que estão no estado pronto e chama o processo da fila de prioridade, nesse momento não ha nenhum processo em execução.
